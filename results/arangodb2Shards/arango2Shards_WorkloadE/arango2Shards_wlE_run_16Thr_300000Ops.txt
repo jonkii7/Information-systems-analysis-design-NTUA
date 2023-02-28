@@ -1,0 +1,16 @@
+[OVERALL], RunTime(ms), 173714
+[OVERALL], Throughput(ops/sec), 1726.9765246324419
+[INSERT], Operations, 0
+[INSERT], AverageLatency(us), NaN
+[INSERT], MinLatency(us), 9223372036854775807
+[INSERT], MaxLatency(us), 0
+[INSERT], 95thPercentileLatency(us), 0
+[INSERT], 99thPercentileLatency(us), 0
+[INSERT], Return=ERROR, 14905
+[SCAN], Operations, 285095
+[SCAN], AverageLatency(us), 9570.915715814026
+[SCAN], MinLatency(us), 1692
+[SCAN], MaxLatency(us), 131839
+[SCAN], 95thPercentileLatency(us), 16975
+[SCAN], 99thPercentileLatency(us), 22639
+[SCAN], Return=OK, 285095

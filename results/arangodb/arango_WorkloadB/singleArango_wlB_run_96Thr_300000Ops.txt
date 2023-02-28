@@ -1,0 +1,17 @@
+[OVERALL], RunTime(ms), 11002
+[OVERALL], Throughput(ops/sec), 27267.76949645519
+[READ], Operations, 284958
+[READ], AverageLatency(us), 3037.769351974677
+[READ], MinLatency(us), 114
+[READ], MaxLatency(us), 686079
+[READ], 95thPercentileLatency(us), 7203
+[READ], 99thPercentileLatency(us), 16175
+[READ], Return=OK, 284958
+[UPDATE], Operations, 15034
+[UPDATE], AverageLatency(us), 4038.9334841027007
+[UPDATE], MinLatency(us), 232
+[UPDATE], MaxLatency(us), 331519
+[UPDATE], 95thPercentileLatency(us), 9807
+[UPDATE], 99thPercentileLatency(us), 21311
+[UPDATE], Return=OK, 15034
+[UPDATE], Return=ERROR, 8

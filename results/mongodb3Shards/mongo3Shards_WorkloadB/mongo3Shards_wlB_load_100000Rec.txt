@@ -1,0 +1,9 @@
+[OVERALL], RunTime(ms), 129733
+[OVERALL], Throughput(ops/sec), 770.8139023995436
+[INSERT], Operations, 100000
+[INSERT], AverageLatency(us), 1242.46075
+[INSERT], MinLatency(us), 16
+[INSERT], MaxLatency(us), 1730559
+[INSERT], 95thPercentileLatency(us), 273
+[INSERT], 99thPercentileLatency(us), 948
+[INSERT], Return=OK, 100000
